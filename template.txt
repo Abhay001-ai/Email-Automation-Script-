@@ -1,0 +1,9 @@
+Hi {{ name }},
+
+This is a short demo email.
+
+Regards,
+{{ from_name }}
+
+---
+You can include fields from the spreadsheet like {{ company }} or {{ custom_field }}.

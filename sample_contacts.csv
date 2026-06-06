@@ -1,0 +1,3 @@
+email,name,company,custom_field,message
+alice@example.com,Alice,Acme,"VIP",""
+bob@example.com,Bob,Globex,"Standard",""
